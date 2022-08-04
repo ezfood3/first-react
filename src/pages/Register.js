@@ -38,7 +38,15 @@ const Register = () => {
           onChange={onChange}
         />
       </div>
-      <br />
+      <div className="from-group">
+        <input
+          type="password"
+          id="pwck"
+          name="pwck"
+          placeholder="비밀번호 체크"
+          onChange={onChange}
+        />
+      </div>
       <button className="btn-primary" onClick={onClick}>
         회원가입
       </button>

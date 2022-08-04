@@ -3,15 +3,15 @@
 }
 
 .from-group {
-  width: 350px;
+
   margin-left: auto;
   margin-right: auto;
 }
 
 .btn-primary {
-  border: 1px solid #03c75b;
+  border: 2px solid #03c75b;
   background-color:white;
   color: black;
   font-size: 80%;
-  width: 170px;
+
 }

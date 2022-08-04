@@ -7,8 +7,6 @@ import Register from './pages/Register';
 import WritePage from './pages/WritePage';
 import ErrorPage from './pages/ErrorPage';
 
-// import WritePage from './pages/WritePage';
-
 function App() {
   return (
     <Routes>
